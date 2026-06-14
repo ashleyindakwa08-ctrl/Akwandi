@@ -1,16 +1,18 @@
-# Hi, I'm [Ashley]
+# Hi, I'm Ashley Indakwa
 
 ## About Me
-- I'm currently learning [what you're studying, e.g., "Computer programming at a college"].
-- I'm interested in [your interests, e.g., "AI, web development,programming,psychology and data science"].
-- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
+- I'm currently learning Computer programming at Mahanaim college Bachelor of Psychology at Egerton University
+- I'm interested in AI, Data Science, Web Development and Psychology.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
-- Git and GitHub
-- python, javascript ,java ,rust
+- Git and GitHub.
+- Python, Javascript ,Java ,Rust and Elixa.
+-Machinelearning and Deeplearning.
 
 ## Current project
 none
+
 ## How to Reach Me
-- Email: [ashleyindakwa08@gmail.com]
-- none
+- Email:ashleyindakwa08@gmail.com
+- Phone:0700619696.
