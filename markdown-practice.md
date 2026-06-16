@@ -33,14 +33,10 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("World")
-> Consistency is more important than perfection. Small progress every day adds up to big results over time.
-## About Me
-
-Hello! My name is **Ashley**, and I am currently learning programming. I am focused on building strong foundational skills in both web development and software development.
 
 You can view my projects on [GitHub](https://github.com/ashleyindakwa08-ctrl).
 
-### What I'm Learning
+## What I'm Learning
 
 - HTML
 - JavaScript
@@ -55,6 +51,19 @@ You can view my projects on [GitHub](https://github.com/ashleyindakwa08-ctrl).
 - [ ] Build my first complete website
 - [ ] Create small projects using JavaScript and C++
 
-> “Learning to write programs stretches your mind and helps you think better.”
-
 I often use the command `git commit -m "update progress"` to save my work as I learn.
+
+> Consistency is more important than perfection. Small progress every day adds up to big results over time.
+
+# About Me
+
+## Hi! I'm Ashley
+
+I enjoy **coding**, **building websites**, and *reading*.
+
+### Interests
+- Web Development
+- Software Development
+- Reading
+
+> I am focused on building strong foundational skills in both web development and software development
